@@ -26,11 +26,6 @@ AI(LAB)/
 │   ├── Lab#01.pptx
 │   ├── Lab#01_AI_Spring_2026.ipynb
 │   └── Scoring Rubric - Lab#01.pdf
-│
-├── Lab#01_Complete_Manual (1).docx
-├── Lab02_manul.docx
-├── Lab03_manul.docx
-├── Lab#01_AI_Spring_2026.pdf
 ├── Lab#02_AI_2026.pdf
 └── Lab#03_AI_2026.pdf
 ```
